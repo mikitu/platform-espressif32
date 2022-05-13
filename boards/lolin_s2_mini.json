@@ -18,7 +18,8 @@
     "openocd_board": "esp32s2.cfg"
   },
   "frameworks": [
-    "espidf"
+    "espidf",
+    "arduino"
   ],
   "name": "WEMOS LOLIN S2 Mini",
   "upload": {
